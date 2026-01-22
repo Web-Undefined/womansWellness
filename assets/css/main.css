@@ -3474,25 +3474,25 @@ body {
             rgba(48, 54, 57, 0.2),
             rgba(48, 54, 57, 0.2)
         ),
-        url("../../images/banner.jpeg");
+        url("../../images/new\ banner.jpg");
     background-image: -webkit-linear-gradient(
             to top,
             rgba(48, 54, 57, 0.2),
             rgba(48, 54, 57, 0.2)
         ),
-        url("../../images/banner.jpeg");
+        url("../../images/new\ banner.jpg");
     background-image: -ms-linear-gradient(
             to top,
             rgba(48, 54, 57, 0.2),
             rgba(48, 54, 57, 0.2)
         ),
-        url("../../images/banner.jpeg");
+        url("../../images/new\ banner.jpg");
     background-image: linear-gradient(
             to top,
             rgba(48, 54, 57, 0.2),
             rgba(48, 54, 57, 0.2)
         ),
-        url("../../images/banner.jpeg");
+        url("../../images/new\ banner.jpg");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
